@@ -1,0 +1,4 @@
+Name : G Venkata Krishna
+Course : BCA 
+Learnings:
+I Learned about how to upload or create files in the repository and also how to host using GitHub Pages.
